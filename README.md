@@ -1,2 +1,11 @@
 # Dog-Breed-Prediction
-Its Predict the Breed of Dog
+
+Dog Vision is a web application that uses deep learning to identify dog breeds from uploaded images. It provides a user-friendly interface for users to explore and discover the breed of their dogs with ease.
+
+## Key Features
+
+- **Breed Identification:** Upload an image of a dog and let Dog Vision predict the breed with high accuracy.
+- **Confidence Score:** Get a confidence score associated with each predicted breed, indicating the model's level of certainty.
+- **Google Search Integration:** Explore more about the predicted breed by directly accessing a Google search page for images and information.
+- **Multiple Image Support:** Analyze multiple dog images in one go and get breed predictions for each image.
+- **Visual Appeal:** Enjoy a visually appealing and intuitive user interface for a seamless user experience.
